@@ -6,6 +6,8 @@
 
 A tiny Python program that writes a single sentence of horror to /output/entry.txt — at 3 a.m. a baby monitor plays a mother's own voice singing a lullaby she hasn't written yet, for the daughter who isn't due until spring.
 
+The chill is temporal, not gory: the voice already knows a song and a child that do not exist yet, as if the future leaked backwards through the monitor.
+
 ## Run it
 
 ```sh

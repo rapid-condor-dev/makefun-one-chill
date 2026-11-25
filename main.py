@@ -1,11 +1,16 @@
 #!/usr/bin/env python3
-"""One Line, One Chill - make.fun entry.
+"""One Line, One Chill - make.fun entry (round 2 revision).
 
 Writes a single sentence of horror (<200 characters) to
-/output/entry.txt: at 3 a.m. a baby monitor plays the mother's own
-voice singing a lullaby she has not written yet, for a daughter who
-is not due until spring. The fright is temporal - the voice knows a
-song, and a child, that do not exist yet - and it lands in one breath.
+/output/entry.txt. The chill is temporal, not gory: at 3 a.m. - the
+hour when a nursery is supposed to be silent - a baby monitor wakes
+and plays the mother's own voice singing a lullaby she has not
+written yet, for a daughter who is not due until spring. Nothing
+threatens her outright; the dread is that the voice already knows a
+song and a child that do not exist yet, as if the future has leaked
+backwards through the monitor. First person keeps it intimate - "my
+own voice" - and the single breath of one sentence leaves no room to
+look away.
 """
 
 import os
